@@ -1,4 +1,4 @@
-This is a course recommendation model made using collaborative filtering technique.
+This is a course recommendation model made using content based filtering technique.
 
 
 After performing Exploratory data Analysis, further data is checked.
